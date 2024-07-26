@@ -20,3 +20,4 @@ dependencies:
   - r-randomforest
   - r-ellipse
   - r-caret
+  - r-kernlab
